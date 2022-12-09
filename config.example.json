@@ -1,0 +1,10 @@
+{
+  "src": "/some-path/My PDF.pdf",
+  "dest": "/some-path/My PDF ({DATE}).pdf",
+  "fontSize": 10,
+  "writes": [
+    ["First Name", "Some First Name", 0, -20],
+    ["Last Name", "Some Last Name", 0, -20],
+    ["Address", "Some Address", 0, -2]
+  ]
+}

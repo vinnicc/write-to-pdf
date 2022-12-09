@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "baseUrl": "./",
+    "esModuleInterop": true,
+  },
+  "exclude": ["node_modules", "**/*.test.ts"],
+}
